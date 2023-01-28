@@ -5,4 +5,7 @@
 
 3] it takes some time to remove the background.
 
-4] 90% background is removed. 
+Modules ->
+1] rembg
+2] easygui
+3] PIL(Pillow)
